@@ -15,36 +15,38 @@ I used DBeaver, PostgreSQL, and VS Code to write and run SQL queries, which allo
 
 ## Revenue Analysis 💰
 
-![Revenue_Analysis](revenue_analysis.png)
+![Revenue_Analysis](./IMAGES/revenue_analysis.png)
+
+
 
 This section explores the financial performance of major fast fashion brands, examining trends in revenue and production over time.
 
-![revenue_and_cycles_ranking](revenue_and_cycles_ranking.png)
+![revenue_and_cycles_ranking](./IMAGES/revenue_and_cycles_ranking.png)
 
 The rankings of Fast Fashion Brands are consistent when comparing total net revenue and total release cycles per brand.
 This alignment highlights a strong link between production activity and financial performance.
 
-![correlation_between_revenue_and_production](correlation_between_revenue_and_production.png)
+![correlation_between_revenue_and_production](./IMAGES/correlation_between_revenue_and_production.png)
 
 Production volume plays a critical role in net revenue generation.
 By comparing each brand’s share of total production to its share of total revenue, we observe a clear correlation between the two across brands and years.
 
 ## Environmental Impact 🌱
 
-![Environment_Impact](environment_impact.png)
+![Environment_Impact](./IMAGES/environment_impact.png)
 
 This section investigates the environmental footprint of each brand, including carbon emissions, water usage, and waste generation.
 
-![Emissions_and_Water_Ranking](emissions_and_water_ranking.png)
+![Emissions_and_Water_Ranking](./IMAGES/emissions_and_water_ranking.png)
 
 Despite ranking 4th in total net revenue and release cycles, Uniqlo has the highest average carbon emissions (in tonnes) and water usage per release cycle.
 This suggests that increased production to boost revenue has a disproportionately higher environmental impact for this brand compared to its peers.
 
-![Evolution_of_Carbon_and_Water_Used](evolution_of_carbon_and_water_used.png)
+![Evolution_of_Carbon_and_Water_Used](./IMAGES/evolution_of_carbon_and_water_used.png)
 
-![Emissions_per_Tonne_of_Product](emissions_per_tonne_of_product.png)
+![Emissions_per_Tonne_of_Product](./IMAGES/emissions_per_tonne_of_product.png)
 
-![Correlation_between_Waste_and_Revenue](correlation_between_waste_and_revenue.png)
+![Correlation_between_Waste_and_Revenue](./IMAGES/correlation_between_waste_and_revenue.png)
 
 Overall, total carbon emissions, emissions per tonne, and resource usage remain high, with little evidence of reduction over time.
 Although sustainability awareness has increased, there is no clear downward trend, except for 2020, likely influenced by the COVID-19 pandemic.
@@ -53,33 +55,33 @@ There is also a notable correlation between brands’ revenue share and the wast
 
 ## Working Conditions 👷‍♂️
 
-![Working_Conditions](working_conditions.png)
+![Working_Conditions](./IMAGES/working_conditions.png)
 
 This section analyzes labor metrics such as average salaries and working hours to assess employee well-being across brands.
 
-![Salaries_Ranking](salaries_ranking.png)
+![Salaries_Ranking](./IMAGES/salaries_ranking.png)
 
 Analyzing data from 2015 to 2024, we examined average salaries across brands and years.
 Forever 21 consistently offers the lowest wages among the five major Fast Fashion Brands.
 
-![Salary_and_Hours_Evolution](salary_and_hours_evolution.png)
+![Salary_and_Hours_Evolution](./IMAGES/salary_and_hours_evolution.png)
 
 When comparing salary trends with average weekly working hours, both metrics show minimal change over time.
 Adjusted for inflation, this suggests that employees are effectively working the same hours for decreasing real pay.
 
 ## Social Media 📱
 
-![Social_Media](social_media.png)
+![Social_Media](./IMAGES/social_media.png)
 
 This section examines how fast fashion brands engage with consumers on social media platforms, highlighting trends and potential opportunities for awareness campaigns.
 
 
-![Social_Media_Mentions](social_media_mentions.png)
+![Social_Media_Mentions](./IMAGES/social_media_mentions.png)
 
 The social media presence of these five brands, particularly on Instagram and TikTok, is substantial.
 This engagement can be leveraged to raise awareness about environmental and labor issues in the fast fashion industry.
 
-![Mentions_Evolution](mentions_evolution.png)
+![Mentions_Evolution](./IMAGES/mentions_evolution.png)
 
 While Instagram mentions have increased over the years, TikTok engagement has grown significantly more recently.
 Launching a targeted online campaign—especially on TikTok—could help communicate the environmental and labor impacts of fast fashion and encourage more responsible consumption.
